@@ -1,2 +1,13 @@
-# csv-to-playlist
-Python script that converts .csv playlist files into Spotify Playlist
+# CSV-to-Playlist
+A Python script that converts .csv playlist files into Spotify Playlist.
+
+## Motivations
+With this script, I was able to automate creating playlists with my song recommendations that were generated from my song-recommender project.
+
+## Instructions
+1. Obtain OAUTH key and Spotify User-ID.
+2. Create secrets Python file in same directory. 
+3. Run script. 
+
+## Limitations
+CSV files must have two columns named "track" and "artist" to represent the song title and, obviously, the artist. If the specified song is not in Spotify, an error will occur. 
