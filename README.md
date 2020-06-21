@@ -11,3 +11,6 @@ With this script, I was able to automate creating playlists with my song recomme
 
 ## Limitations
 CSV files must have two columns named "track" and "artist" to represent the song title and, obviously, the artist. If the specified song is not in Spotify, an error will occur. 
+
+## Example of a playlist
+https://open.spotify.com/playlist/21QEYbdspowxYCxgpPjehi?si=KOvrwGB4Rzu4yAhLDil1iA
